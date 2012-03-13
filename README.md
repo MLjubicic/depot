@@ -1,12 +1,11 @@
-# Miro Ljubicic, i10b, ZHAW #
+# Miro Ljubicic, i10b, ZHAW
 
-## 4. Semester, WebProgrammierung 2, Ruby on Rails Depot, 2012 ## 
-
+## 4. Semester, WebProgrammierung 2, Ruby on Rails Depot, 2012
 
 - Github-Repo:       https://github.com/MLjubicic/depot
 - Heroku-Repo:       http://mirorails.heroku.com/
 
-### CHANGELOG ###
+### CHANGELOG
 
 
 - 21 Feb 2012
@@ -16,18 +15,17 @@
 - 21 Feb 2012
   - Erste Applikation 01_VeranstaltungseinheitSetup\test1 erzeugt
   - Rails server getestet 
-  - -> Alles OK
 
 - 27 Feb 2012
   - heroku.com Account erstellt
 
 - 28 Feb 2012
   - Applikation 01_VeranstaltungseinheitSetup\test2 erzeugt
-    (für Code im Bezug Kapitel 1&2 im Buch) -> Alles OK
+    (für Code im Bezug Kapitel 1&2 im Buch)
 
 - 05 Mar 2012
   - Ordner "02_VeranstaltungseinheitIntroUndUebungsbetrieb" erzeugt
-  - -> kein Code, nur Buchstudium Kapitel 3&4
+  - kein Code, nur Buchstudium Kapitel 3&4
 
 - 06 Mar 2012
   - Neue Rails App und Repo "depot" erstellt für Arbeit mit heroku
@@ -35,8 +33,11 @@
 
 - 06 Mar 2012
   - Git-Anbindung an heroku erstellt und gestestet
-  - -> Alles OK
 
 - 06 Mar 2012
-  - Applikation "depot" nach github und heroku ge-push'd
-  -> Alles OK, Applikation läuft
+  - Applikation "depot" nach github und heroku ge-push'd  -> Applikation läuft
+
+- 13 Mar 2012
+  - README als Markdown-File erstellt
+  - Rails, Git, Heroku bereit
+  - Links auf edu.panter.ch hinterlegt
