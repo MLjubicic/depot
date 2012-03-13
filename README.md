@@ -8,36 +8,36 @@
 ### CHANGELOG
 
 
-- 21 Feb 2012
+- **21 Feb 2012**
   - GitHub Repo "MiroRails" angelegt fuer Rails
   - Ruby on Rails installiert auf Windows (inkl. DevKit)
 
-- 21 Feb 2012
+- **21 Feb 2012**
   - Erste Applikation 01_VeranstaltungseinheitSetup\test1 erzeugt
   - Rails server getestet 
 
-- 27 Feb 2012
+- **27 Feb 2012**
   - heroku.com Account erstellt
 
-- 28 Feb 2012
+- **28 Feb 2012**
   - Applikation 01_VeranstaltungseinheitSetup\test2 erzeugt
     (für Code im Bezug Kapitel 1&2 im Buch)
 
-- 05 Mar 2012
+- **05 Mar 2012**
   - Ordner "02_VeranstaltungseinheitIntroUndUebungsbetrieb" erzeugt
   - kein Code, nur Buchstudium Kapitel 3&4
 
-- 06 Mar 2012
+- **06 Mar 2012**
   - Neue Rails App und Repo "depot" erstellt für Arbeit mit heroku
   - Diese App (resp. dieses Repo) ist ab jetzt der Master
 
-- 06 Mar 2012
+- **06 Mar 2012**
   - Git-Anbindung an heroku erstellt und gestestet
 
-- 06 Mar 2012
+- **06 Mar 2012**
   - Applikation "depot" nach github und heroku ge-push'd  -> Applikation läuft
 
-- 13 Mar 2012
+- **13 Mar 2012**
   - README als Markdown-File erstellt
   - Rails, Git, Heroku bereit
   - Links auf edu.panter.ch hinterlegt
