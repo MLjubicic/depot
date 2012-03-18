@@ -41,3 +41,8 @@
   - README als Markdown-File erstellt
   - Rails, Git, Heroku bereit
   - Links auf edu.panter.ch hinterlegt
+
+- **18 Mar 2012**
+  - Buch-Kapitel 5&6 durchgearbeitet
+  - Code auf GitHub eingecheckt
+  - Code auf Heroku eingecheckt
