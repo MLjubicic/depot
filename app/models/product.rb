@@ -2,7 +2,7 @@ class Product < ActiveRecord::Base
   validates :title, :description, :image_url, presence: true
   validates :price, numericality: {greater_than_or_equal_to: 0.05} 
   validates :price, format: { 
-    with: %r{(5|0)$},
+    with: %r{\.[0-9][50]$},
     message: 'must be rounded to 5 cents.' 
   }
   validates :title, uniqueness: true
