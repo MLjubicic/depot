@@ -51,3 +51,4 @@
   - Buch-Kapitel 7 durchgearbeitet (Input-Validierung, Functional Tests, Unit-Tests und Fixtures)
   - Code auf GitHub eingecheckt
   - Code auf Heroku eingecheckt (Frischer DB-Seed angelegt)
+  - Mich kaputtgequält für die 5-Rappen-Rundung, irgendwie läuft's immer noch nicht :-(
