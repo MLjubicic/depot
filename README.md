@@ -46,3 +46,8 @@
   - Buch-Kapitel 5&6 durchgearbeitet
   - Code auf GitHub eingecheckt
   - Code auf Heroku eingecheckt
+
+- **25 Mar 2012**
+  - Buch-Kapitel 7 durchgearbeitet (Input-Validierung, Functional Tests, Unit-Tests und Fixtures)
+  - Code auf GitHub eingecheckt
+  - Code auf Heroku eingecheckt (Frischer DB-Seed angelegt)
