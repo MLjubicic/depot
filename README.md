@@ -52,3 +52,6 @@
   - Code auf GitHub eingecheckt
   - Code auf Heroku eingecheckt (Frischer DB-Seed angelegt)
   - Mich kaputtgequält für die 5-Rappen-Rundung, irgendwie läuft's immer noch nicht :-(
+
+- **26 Mar 2012**
+  - Ein weiterer (erfolgloser) Versuch mit der 5-Rappen-Rundung
