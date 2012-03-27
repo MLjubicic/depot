@@ -55,3 +55,6 @@
 
 - **26 Mar 2012**
   - Ein weiterer (erfolgloser) Versuch mit der 5-Rappen-Rundung
+
+- **27 Mar 2012**
+  - 5-Rappen-Rundung funktioniert jetzt, DANKE BEAT!
