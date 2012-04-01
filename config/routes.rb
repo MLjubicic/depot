@@ -1,4 +1,6 @@
 Depot::Application.routes.draw do
+  get "store/index"
+
   get "say/hello"
 
   get "say/goodbye"
