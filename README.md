@@ -58,3 +58,8 @@
 
 - **27 Mar 2012**
   - 5-Rappen-Rundung funktioniert jetzt, DANKE BEAT!
+
+- **10 Apr 2012**
+  - Kapitel 8 durchgearbeitet, sieht langsam schon besser aus
+  - Code auf GitHub eingecheckt
+  - Code auf Heroku eingecheckt
