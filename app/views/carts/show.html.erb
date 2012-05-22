@@ -5,8 +5,11 @@
 <h2>Your Pragmatic Cart</h2>
 <ul>    
   <% @cart.line_items.each do |item| %>
-<!-- START_HIGHLIGHT -->
     <li><%= item.quantity %> &times; <%= item.product.title %></li>
-<!-- END_HIGHLIGHT -->
   <% end %>
 </ul>
+
+<!-- START_HIGHLIGHT -->
+<%= button_to 'Empty cart', @cart, method: :delete,
+    confirm: 'Are you sure?' %>
+<!-- END_HIGHLIGHT -->
