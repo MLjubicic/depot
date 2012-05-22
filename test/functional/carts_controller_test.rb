@@ -25,25 +25,25 @@ class CartsControllerTest < ActionController::TestCase
   end
 
   test "should show cart" do
-    get :show, id: @cart
+    get :show, id: @cart.to_param
     assert_response :success
   end
 
   test "should get edit" do
-    get :edit, id: @cart
+    get :edit, id: @cart.to_param
     assert_response :success
   end
 
   test "should update cart" do
-    put :update, id: @cart, cart: @cart.attributes
+    put :update, id: @cart.to_param, cart: @cart.attributes
     assert_redirected_to cart_path(assigns(:cart))
   end
 
   test "should destroy cart" do
     assert_difference('Cart.count', -1) do
-      delete :destroy, id: @cart
+      session[:cart_id] = @cart.id
+      delete :destroy, id: @cart.to_param
     end
-
-    assert_redirected_to carts_path
+    assert_redirected_to store_path
   end
 end
