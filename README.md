@@ -73,3 +73,8 @@
   - Kapitel 10 durchgearbeitet
   - Code auf GitHub eingecheckt
   - Code auf Heroku eingecheckt
+  
+- **08 June 2012**
+  - Kapitel 11 durchgearbeitet
+  - Code auf GitHub eingecheckt
+  - Code auf Heroku eingecheckt
